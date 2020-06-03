@@ -1,0 +1,10 @@
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Extentions\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Extentions\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Extentions\obj\Release\Sefe.Extentions.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Extentions\obj\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Extentions\obj\Release\Sefe.Extentions.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\BeycodeLibrary\SefeFrameworks\Sefe.Extentions\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\BeycodeLibrary\SefeFrameworks\Sefe.Extentions\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\BeycodeLibrary\SefeFrameworks\Sefe.Extentions\obj\Release\Sefe.Extentions.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\BeycodeLibrary\SefeFrameworks\Sefe.Extentions\obj\Release\Sefe.Extentions.dll
+D:\Code\DotNet\BeycodeLibrary\SefeFrameworks\Sefe.Extentions\obj\Release\Sefe.Extentions.pdb

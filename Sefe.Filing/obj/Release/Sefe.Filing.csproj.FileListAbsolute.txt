@@ -1,0 +1,41 @@
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Filing.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Filing.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\bin\Release\Select.Html.dep
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\bin\Release\itextsharp.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\bin\Release\itextsharp.xmlworker.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Core.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\bin\Release\Select.Pdf.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Core.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\bin\Release\itextsharp.xml
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\bin\Release\Select.Pdf.xml
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\obj\Release\Sefe.Filing.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\obj\Release\Sefe.Filing.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Filing\obj\Release\Sefe.Filing.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Filing.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Filing.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Select.Html.dep
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\itextsharp.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\itextsharp.xmlworker.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Core.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Core.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\itextsharp.xml
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\obj\Release\Sefe.Filing.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\obj\Release\Sefe.Filing.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Filing\obj\Release\Sefe.Filing.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Filing.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Filing.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Select.Html.dep
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\itextsharp.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\itextsharp.xmlworker.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Core.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Extentions.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Core.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\itextsharp.xml
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\bin\Release\Sefe.Extentions.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\obj\Release\Sefe.Filing.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\obj\Release\Sefe.Filing.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Filing\obj\Release\Sefe.Filing.pdb

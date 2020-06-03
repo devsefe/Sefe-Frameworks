@@ -1,0 +1,15 @@
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Security\bin\Debug\Sefe.Security.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Security\bin\Debug\Sefe.Security.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Security\obj\Debug\Sefe.Security.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Security\obj\Debug\Sefe.Security.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Security\obj\Debug\Sefe.Security.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Security\bin\Debug\Sefe.Security.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Security\bin\Debug\Sefe.Security.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Security\obj\Debug\Sefe.Security.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Security\obj\Debug\Sefe.Security.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Security\obj\Debug\Sefe.Security.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Security\bin\Debug\Sefe.Security.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Security\bin\Debug\Sefe.Security.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Security\obj\Debug\Sefe.Security.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Security\obj\Debug\Sefe.Security.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Security\obj\Debug\Sefe.Security.pdb

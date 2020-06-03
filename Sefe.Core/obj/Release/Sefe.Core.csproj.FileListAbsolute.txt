@@ -1,0 +1,21 @@
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Core\bin\Release\Sefe.Core.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Core\bin\Release\Sefe.Core.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Core\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Core\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Core\obj\Release\Sefe.Core.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Core\obj\Release\Sefe.Core.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Core\obj\Release\Sefe.Core.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Core\bin\Release\Sefe.Core.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Core\bin\Release\Sefe.Core.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Core\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Core\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Core\obj\Release\Sefe.Core.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Core\obj\Release\Sefe.Core.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Core\obj\Release\Sefe.Core.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Core\bin\Release\Sefe.Core.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Core\bin\Release\Sefe.Core.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Core\bin\Release\Sefe.Extentions.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Core\bin\Release\Sefe.Extentions.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Core\obj\Release\Sefe.Core.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Core\obj\Release\Sefe.Core.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Core\obj\Release\Sefe.Core.pdb

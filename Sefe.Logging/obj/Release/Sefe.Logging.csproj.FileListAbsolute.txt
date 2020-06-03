@@ -1,0 +1,27 @@
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.Logging.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.Logging.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.ApplicationSettings.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.ApplicationSettings.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Logging\obj\Release\Sefe.Logging.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Logging\obj\Release\Sefe.Logging.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Logging\obj\Release\Sefe.Logging.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.Logging.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.Logging.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.ApplicationSettings.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.ApplicationSettings.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Logging\obj\Release\Sefe.Logging.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Logging\obj\Release\Sefe.Logging.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Logging\obj\Release\Sefe.Logging.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.Logging.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.Logging.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.ApplicationSettings.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.Extentions.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.ApplicationSettings.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Logging\bin\Release\Sefe.Extentions.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Logging\obj\Release\Sefe.Logging.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Logging\obj\Release\Sefe.Logging.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Logging\obj\Release\Sefe.Logging.pdb

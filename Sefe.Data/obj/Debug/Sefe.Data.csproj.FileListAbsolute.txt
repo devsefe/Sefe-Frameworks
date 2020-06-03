@@ -1,0 +1,60 @@
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Data.dll.config
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Data.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Data.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\EntityFramework.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.ApplicationSettings.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Caching.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Core.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Extentions.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Security.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.ApplicationSettings.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Caching.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Core.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Extentions.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Security.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\EntityFramework.xml
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\obj\Debug\Sefe.Data.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\obj\Debug\Sefe.Data.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Data\obj\Debug\Sefe.Data.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.Data.dll.config
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.Data.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.Data.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\EntityFramework.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.ApplicationSettings.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.Caching.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.Core.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.Extentions.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.Security.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.ApplicationSettings.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.Caching.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.Core.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.Extentions.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\Sefe.Security.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\EntityFramework.xml
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\obj\Debug\Sefe.Data.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\obj\Debug\Sefe.Data.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.Data\obj\Debug\Sefe.Data.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Data.dll.config
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Data.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Data.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\EntityFramework.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.ApplicationSettings.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Caching.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Core.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Extentions.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Security.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.ApplicationSettings.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Caching.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Core.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Extentions.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\Sefe.Security.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\EntityFramework.xml
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\obj\Debug\Sefe.Data.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\obj\Debug\Sefe.Data.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Data\obj\Debug\Sefe.Data.pdb

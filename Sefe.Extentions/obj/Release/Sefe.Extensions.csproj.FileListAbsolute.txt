@@ -1,0 +1,10 @@
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Extentions\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Extentions\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Extentions\obj\Release\Sefe.Extensions.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Extentions\obj\Release\Sefe.Extentions.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Extentions\obj\Release\Sefe.Extentions.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Extentions\bin\Release\Sefe.Extentions.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Extentions\bin\Release\Sefe.Extentions.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Extentions\obj\Release\Sefe.Extensions.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Extentions\obj\Release\Sefe.Extentions.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Extentions\obj\Release\Sefe.Extentions.pdb

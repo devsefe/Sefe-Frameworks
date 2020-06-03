@@ -1,0 +1,27 @@
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Caching.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Caching.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Core.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Core.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Caching\obj\Release\Sefe.Caching.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Caching\obj\Release\Sefe.Caching.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Caching\obj\Release\Sefe.Caching.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Caching.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Caching.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Core.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Core.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Caching\obj\Release\Sefe.Caching.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Caching\obj\Release\Sefe.Caching.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Caching\obj\Release\Sefe.Caching.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Caching.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Caching.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Core.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Extentions.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Core.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Caching\bin\Release\Sefe.Extentions.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Caching\obj\Release\Sefe.Caching.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Caching\obj\Release\Sefe.Caching.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Caching\obj\Release\Sefe.Caching.pdb

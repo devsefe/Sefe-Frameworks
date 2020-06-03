@@ -1,0 +1,21 @@
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\bin\Release\Sefe.ApplicationSettings.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\bin\Release\Sefe.ApplicationSettings.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\obj\Release\Sefe.ApplicationSettings.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\obj\Release\Sefe.ApplicationSettings.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\obj\Release\Sefe.ApplicationSettings.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.ApplicationSettings\bin\Release\Sefe.ApplicationSettings.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.ApplicationSettings\bin\Release\Sefe.ApplicationSettings.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.ApplicationSettings\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.ApplicationSettings\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.ApplicationSettings\obj\Release\Sefe.ApplicationSettings.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.ApplicationSettings\obj\Release\Sefe.ApplicationSettings.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.ApplicationSettings\obj\Release\Sefe.ApplicationSettings.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\bin\Release\Sefe.ApplicationSettings.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\bin\Release\Sefe.ApplicationSettings.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\bin\Release\Sefe.Extentions.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\bin\Release\Sefe.Extentions.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\obj\Release\Sefe.ApplicationSettings.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\obj\Release\Sefe.ApplicationSettings.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\obj\Release\Sefe.ApplicationSettings.pdb

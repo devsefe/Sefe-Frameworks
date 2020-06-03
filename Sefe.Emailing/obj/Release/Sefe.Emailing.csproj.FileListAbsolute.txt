@@ -1,0 +1,33 @@
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Emailing.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Emailing.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.ApplicationSettings.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Core.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.ApplicationSettings.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Core.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Emailing\obj\Release\Sefe.Emailing.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Emailing\obj\Release\Sefe.Emailing.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Emailing\obj\Release\Sefe.Emailing.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Emailing.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Emailing.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.ApplicationSettings.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Core.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Extentions.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.ApplicationSettings.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Core.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Extentions.pdb
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Emailing\obj\Release\Sefe.Emailing.csprojResolveAssemblyReference.cache
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Emailing\obj\Release\Sefe.Emailing.dll
+D:\Code\DotNet\GitHub\SefeFrameworks\Sefe.Emailing\obj\Release\Sefe.Emailing.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Emailing.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Emailing.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.ApplicationSettings.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Core.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Extentions.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.ApplicationSettings.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Core.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Emailing\bin\Release\Sefe.Extentions.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Emailing\obj\Release\Sefe.Emailing.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Emailing\obj\Release\Sefe.Emailing.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.Emailing\obj\Release\Sefe.Emailing.pdb

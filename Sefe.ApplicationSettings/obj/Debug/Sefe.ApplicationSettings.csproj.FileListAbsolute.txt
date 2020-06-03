@@ -1,0 +1,21 @@
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\bin\Debug\Sefe.ApplicationSettings.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\bin\Debug\Sefe.ApplicationSettings.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\bin\Debug\Sefe.Extentions.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\bin\Debug\Sefe.Extentions.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\obj\Debug\Sefe.ApplicationSettings.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\obj\Debug\Sefe.ApplicationSettings.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.ApplicationSettings\obj\Debug\Sefe.ApplicationSettings.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.ApplicationSettings\bin\Debug\Sefe.ApplicationSettings.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.ApplicationSettings\bin\Debug\Sefe.ApplicationSettings.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.ApplicationSettings\bin\Debug\Sefe.Extentions.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.ApplicationSettings\bin\Debug\Sefe.Extentions.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.ApplicationSettings\obj\Debug\Sefe.ApplicationSettings.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.ApplicationSettings\obj\Debug\Sefe.ApplicationSettings.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\Sefe Frameworks\Sefe.ApplicationSettings\obj\Debug\Sefe.ApplicationSettings.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\bin\Debug\Sefe.ApplicationSettings.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\bin\Debug\Sefe.ApplicationSettings.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\bin\Debug\Sefe.Extentions.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\bin\Debug\Sefe.Extentions.pdb
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\obj\Debug\Sefe.ApplicationSettings.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\obj\Debug\Sefe.ApplicationSettings.dll
+D:\GoogleDrive\Bey Code\Code\GitHub\SefeFrameworks\Sefe.ApplicationSettings\obj\Debug\Sefe.ApplicationSettings.pdb

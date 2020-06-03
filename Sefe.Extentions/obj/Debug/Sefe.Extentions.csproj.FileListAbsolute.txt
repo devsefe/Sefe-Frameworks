@@ -1,0 +1,4 @@
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Extentions\bin\Debug\Sefe.Extentions.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Extentions\bin\Debug\Sefe.Extentions.pdb
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Extentions\obj\Debug\Sefe.Extentions.dll
+D:\Code\DotNet\SefeFrameworks\SefeFrameworks\Sefe.Extentions\obj\Debug\Sefe.Extentions.pdb
